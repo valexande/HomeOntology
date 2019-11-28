@@ -121,6 +121,8 @@ Do you want any, if Yes give a number of the list you see
  
  Can you be a little more specific about the general information you need. :)
 
-(a) A general description of the object. Press a then give me the object
-(b) Show the value of a property. Press b then chose one of the following properties
+(a) A general description of the object. Press a then give me the object.
+
+(b) Show the value of a property. Press b then chose one of the following properties.
+
 (c) I could cover my inability of not returning results in questions (1)-(9), by recommending a new entity. Press c then give what you have typed and o results were returned. 
