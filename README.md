@@ -99,3 +99,22 @@ Which milk do you prefer? Give me the number in the list
 
 (3) Example Action Not existing in the KB:
 
+4
+
+Give me the actions you want me to search for! If there are more than one seperate them by comma :)
+
+looking
+
+For looking I have to recommend
+
+['lookat', 'cut', 'stretch', 'text']
+
+Do you want any, if Yes give a number of the list you see
+
+1
+
+['lookat']
+
+['hanger1 ', 'computer1 ', 'laptop1 ', 'coffee_pot1 ', 'cat1 ', 'table1 ', 'woman2 ', 'bed1 ', 'cellphone1 ', 'child1 ', 'document1 ', 'stove1 ', 'soap1 ', 'child2 ', 'notes1 ', 'cards1 ', 'mirror1 ', 'television1 ', 'bookshelf1 ', 'chair1 ', 'man1 ', 'woman1 ', 'phone1 ', 'dog1 ', 'food_food1 ', 'coffee_table1 ', 'keyboard1 ', 'toothbrush_holder1 ', 'picture2 ', 'face1 ', 'electrical_outlet1 ', 'sink1 ', 'address_book1 ', 'clothes_pants1 ', 'painting1 ', 'book1 ', 'wall_clock1 ', 'bills1 ', 'towel1 ', 'dresser1 ', 'drawing1 ', 'desk1 ', 'plate3 ', 'kitchen_counter1 ', 'fridge1 ', 'crackers1 ', 'lamp1 ', 'magazine5 ', 'remote_control1 ', 'light1 ', 'paper1 ', 'water1 ', 'pot1 ', 'vacuum_cleaner1 ', 'paper_towel1 ', 'table_cloth1 ', 'pillow1 ', 'shoes1 ', 'clothes_underwear2 ', 'dvd_player1 ', 'homework1 ', 'food_dessert1 ', 'closet1 ', 'brush1 ', 'toy1 ', 'magazine3 ', 'cd_player1 ', 'groceries1 ', 'light2 ', 'food_bread1 ', 'telephone1 ', 'painting3 ', 'spoon1 ', 'cookingpot1 ', 'faucet1 ', 'painting2 ', 'plate4 ', 'cup4 ', 'window1 ', 'sofa1 ', 'bowl1 ', 'toilet1 ', 'clothes_dress1 ', 'creditcard1 ', 'notebook1 ', 'food_cheese1 ', 'sponge1 ', 'glass1 ', 'plate1 ', 'lightswitch1 ', 'towel2 ', 'dishrack1 ', 'teeth1 ', 'cabinet1 ', 'hair1 ', 'fly1 ', 'kitchen_cabinet1 ', 'cleaning_bottle1 ', 'board_game1 ', 'magazine2 ', 'newspaper1 ', 'hands_both1 ', 'drinking_glass1 ', 'food_food2 ', 'receipt1 ', 'lighting1 ', 'washing_machine1 ', 'clothes_shirt1 ', 'coffe_maker1 ', 'mop1 ', 'clothes_pants2 ', 'magazine1 ', 'toaster1 ', 'cat2 ', 'cup1 ', 'dry_pasta1 ', 'bathtub1 ', 'couch1 ', 'razor1 ', 'food_cheese2 ', 'arms_both1 ', 'picture1 ', 'clothes_shirt3 ', 'clothes_shirt2 ', 'paper2 ', 'alarm_clock1 ', 'light3 ', 'water_glass1 ', 'basket_for_clothes1 ', 'centerpiece1 ', 'toilet_paper1 ', 'wall1 ', 'stereo1 ', 'shower1 ', 'toothbrush1 ', 'folder2 ', 'radio1 ', 'magazine4 ', 'food_vegetable1 ', 'blanket1 ', 'feet_both1 ', 'folder1 ', 'homework2 ', 'shampoo1 ', 'coffee1 ', 'button1 ', 'food_noodles1 ', 'duster1 ', 'man2 ', 'milk1 ', 'printer1 ', 'rag1 ']
+
+ 
