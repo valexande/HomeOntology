@@ -29,7 +29,7 @@ Hello! :) Right Now the questions that I can answer for you are:
 The user must then pick up a choice and start following the instructions of the framework, as for the input data needed in order for the framework to return the desirred answer. 
 
 
-Example:
+(1) Example:
 
 Choice 3 
 
@@ -56,7 +56,9 @@ Which milk do you prefer? Give me the number in the list
 ['kitchen1 ', 'coffe_maker1 ', 'coffee_filter1 ', 'ground_coffee1 ', 'water1 ', 'coffee_pot1 ', 'coffee_cup1 ', 'food_sugar1 ', 'spoon1 ', 'coffee_cup4 ', 'coffee_table1 ', 'coffee_cup2 ', 'glass1 ', 'ice1 ', 'table1 ', 'stove1 ']
 
 
-Example with Object Not in the KB:
+(2) Example with Object Not in the KB:
+
+Choice 2
 
 Give me the objects for which you want me to find sequence of actions! If there are more than one seperate them by comma :)
 
@@ -91,4 +93,6 @@ Which milk do you prefer? Give me the number in the list
 ['coffee1 ', 'milk1 ']
 
 ['make_iced_coffee1580 ', 'make_coffee403 ', 'make_coffee1418 ', 'make_coffee171 ']
+
+(3) Example Action Not existing in the KB:
 
