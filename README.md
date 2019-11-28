@@ -38,15 +38,57 @@ coffee, milk      ##The format for every question must be like this
 
 
 [coffee1, coffee2]
+
 Which coffee do you prefer? Give me the number in the list
+
 1
 
 
 [milk1 ]
+
 Which milk do you prefer? Give me the number in the list
+
 1
 
 
 [coffee1, milk1 ]
 
 ['kitchen1 ', 'coffe_maker1 ', 'coffee_filter1 ', 'ground_coffee1 ', 'water1 ', 'coffee_pot1 ', 'coffee_cup1 ', 'food_sugar1 ', 'spoon1 ', 'coffee_cup4 ', 'coffee_table1 ', 'coffee_cup2 ', 'glass1 ', 'ice1 ', 'table1 ', 'stove1 ']
+
+
+Example with Object Not in the KB:
+
+Give me the objects for which you want me to find sequence of actions! If there are more than one seperate them by comma :)
+
+cappuccino, milk
+
+Sorry but I do not have in my KB the entity cappuccino do you want me to search on the web for it?
+
+Tell me [y/n], y = yes || n = no
+
+y
+
+I have found similarities with the ones below
+ 
+Cappuccino is IsA drink, beverage. 
+
+Cappuccino is RelatedTo coffee, espresso, steam, caffe_latte, italy, foam. 
+
+Similar objects that I have in my KB are the following. Please give a number in the list to answer your query
+
+['coffee', 'coffee2 ', 'coffee pot', 'coffee cup', 'coffee cup4 ', 'coffee cup2 ', 'coffee pot3 ', 'coffee pot2 ', 'coffee table', 'coffee table2 ', 'ground coffee', 'coffee filter']
+
+1
+
+coffee1 
+
+['milk1 ']
+
+Which milk do you prefer? Give me the number in the list
+
+1
+
+['coffee1 ', 'milk1 ']
+
+['make_iced_coffee1580 ', 'make_coffee403 ', 'make_coffee1418 ', 'make_coffee171 ']
+
