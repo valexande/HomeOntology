@@ -35,13 +35,18 @@ Choice 3
 
 Give me the objects for which you want me to find other objects! If there are more than one seperate them by comma :)
 coffee, milk      ##The format for every question must be like this 
-coffee, milk
+
+
 [coffee1, coffee2]
 Which coffee do you prefer? Give me the number in the list
 1
+
+
 [milk1 ]
 Which milk do you prefer? Give me the number in the list
 1
+
+
 [coffee1, milk1 ]
 
 ['kitchen1 ', 'coffe_maker1 ', 'coffee_filter1 ', 'ground_coffee1 ', 'water1 ', 'coffee_pot1 ', 'coffee_cup1 ', 'food_sugar1 ', 'spoon1 ', 'coffee_cup4 ', 'coffee_table1 ', 'coffee_cup2 ', 'glass1 ', 'ice1 ', 'table1 ', 'stove1 ']
