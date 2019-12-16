@@ -119,5 +119,3 @@ Do you want any, if Yes give a number of the list you see
 
  
 
-
-DBpedia Has Maintainance problems at this moment (14/12 and going), it will be solved quickly I hope, but the Web API of DBpedia will not work possibly. 
