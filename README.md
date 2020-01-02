@@ -119,3 +119,4 @@ Do you want any, if Yes give a number of the list you see
 
  
 
+An issue that might occur, the jar file are the ones that are sending SPARQL queries to the Ontology. The reason we use Java although all the framework is built with Python is because Python libraries could not parse the ontology in real time. Therefore, in order for the jar file to be functional, one may need to extract the code from the jar put in the new .ttl path and export a new jar. Hopefully, this will make the framework functional :).
