@@ -1,7 +1,6 @@
 # HomeOntology
-The framework for the paper send to ESWC 20.
 
-Title:
+Title: A Semantic Question Answering Framework about Household Objects and Actions
 
 Authors: Alexandros Vassiliades, Nick Bassiliades, Filippos Gouidis, and Theodore Patkos
 
