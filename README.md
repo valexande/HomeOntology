@@ -42,7 +42,7 @@ Hello! :) Right Now the questions that I can answer for you are:
 The user must then pick up a choice and start following the instructions of the framework, as for the input data needed in order for the framework to return the desirred answer. 
 
 
-(1) Example:
+Example:
 
 Choice 3 
 
