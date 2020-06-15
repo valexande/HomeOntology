@@ -69,4 +69,6 @@ Which milk do you prefer? Give me the number in the list
 ['kitchen1 ', 'coffe_maker1 ', 'coffee_filter1 ', 'ground_coffee1 ', 'water1 ', 'coffee_pot1 ', 'coffee_cup1 ', 'food_sugar1 ', 'spoon1 ', 'coffee_cup4 ', 'coffee_table1 ', 'coffee_cup2 ', 'glass1 ', 'ice1 ', 'table1 ', 'stove1 ']
 
 
-An issue that might occur, the jar file are the ones that are sending SPARQL queries to the Ontology. The reason we use Java although all the framework is built with Python is because Python libraries could not parse the ontology in real time. Therefore, in order for the jar file to be functional, one may need to extract the code from the jar put in the new .ttl path and export a new jar. Hopefully, this will make the framework functional :).
+An issue that might occur, the jar file are the ones that are sending SPARQL queries to the Ontology. The reason we use Java although all the framework is built with Python is because Python libraries could not parse the ontology quickly enough. Therefore, in order for the jar file to be functional, one may need to take the java code (inside the zip files), change the path to the .ttl file, create a jar. After that you are ready to go :).
+
+We need to apologize for the last part, but unfortunately python does not have an rdf parser for large files that has good time performance. Thus, we used java only for this part.
